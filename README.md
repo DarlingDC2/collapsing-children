@@ -20,9 +20,9 @@ A way to view how the project improves the use of the site is by opening any sor
 Opening developer tools on the browser can be as easy as using shortcut - "ctrl+shift+i"
 Another option would be to right click with your mouse or touchpad and scroll down to the option "inspect" or "inspect element" if you have a certain part of the site highlighted. 
 
-<img src="assets\DEV-TOOLS-1.png" alt="opening dev tools" />
+<img src="assets1\DEV-TOOLS-1.png" alt="opening dev tools" />
 And then there it is open!
-<img src="assets\DEV-TOOLS-OPEN-1.png" alt="dev tools open" />
+<img src="assets1\DEV-TOOLS-OPEN-1.png" alt="dev tools open" />
 
 
 ## Credits
