@@ -51,6 +51,7 @@ Any notes and work from MSU Coding Bootcamp [BCS](https://courses.bootcampspot.c
 Please refer to the LICENSE in the Git Repository 'Collapsing-Children'
 
 
+## [Published Page](https://darlingdc2.github.io/collapsing-children/)
 ---
 
 
